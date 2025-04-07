@@ -34,7 +34,6 @@ The **Aketesia Fresh Basket Sales Performance Dashboard** is an interactive and 
 ## Repository Contents
 - `Dashboard.xlsx` – The main Excel dashboard file.
 - `README.md` – Documentation for understanding and using the dashboard.
-- `Screenshots/` – Folder containing visuals of the dashboard.
 
 ## Author
 **Inna Diana Boateng**  
