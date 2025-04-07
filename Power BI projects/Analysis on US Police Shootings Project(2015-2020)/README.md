@@ -74,13 +74,7 @@ The project highlights systemic issues and racial disparities in police-related 
 
 ---
 
-## 🙋‍♀️ About Me
 
-I'm **Inna Diana Boateng**, a data analyst with a passion for data-driven storytelling and social impact.  
-📫 [innadiana478@gmail.com](mailto:innadiana478@gmail.com)  
-📱 +233 550 600 337  
-
----
 
 ## 🌟 Let's Connect
 
